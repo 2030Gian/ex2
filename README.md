@@ -2,7 +2,7 @@
 ## Resultados de calidad y análisis SonarQube
 
 ### Requerido
-![Calidad requerida](sonnar.png)
+![Calidad requerida](quality.png)
 
 ### Resultado del alumno en SonarQube
-![Resultado SonarQube](quality.png)
+![Resultado SonarQube](sonnar.png)
